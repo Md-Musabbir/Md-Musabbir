@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there, I am Musabbir
 #### A Passionate MERN Stack Developer
-![A Passionate MERN Stack Developer](https://scontent.fdac90-1.fna.fbcdn.net/v/t1.6435-9/77099390_206289820381233_8901416727091347456_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHQpppUonOGwdjbXfzH2vVOeVNITjJz7uF5U0hOMnPu4WZZMpjtkxmXfgBKx9vUvMOeiuGiYKJdxF1VUE9EoU-8&_nc_ohc=lfR6J-_cg9kAX_Mibep&_nc_ht=scontent.fdac90-1.fna&oh=00_AT_TItbfEtN1HGtJLvO8VFXKiLAxUMknJs8hWxAHONap4g&oe=620FCD84)
+![A Passionate MERN Stack Developer](https://www.aismartz.com/images/predictive_analytics_banner.jpg)
 
 Coding is my passion. I love coding. I always try to learn new things and enrich my skills . I have a thirst for knowledge
 
