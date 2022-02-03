@@ -1,7 +1,7 @@
 ![A Passionate MERN Stack Developer](https://www.aismartz.com/images/predictive_analytics_banner.jpg)
 
-### Hi there 👋, Hi there, I am Musabbir
-#### A Passionate MERN Stack Developer
+### Hi there 👋, I am Musabbir
+#### Programmer | A Passionate MERN Stack Developer
 
 
 Coding is my passion. I love coding. I always try to learn new things and enrich my skills . I have a thirst for knowledge
