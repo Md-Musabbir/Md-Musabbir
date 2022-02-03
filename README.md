@@ -4,8 +4,8 @@
 #### Programmer | A Passionate MERN Stack Developer
 
 
-Coding is my passion. I love coding. I always try to learn new things and enrich my skills . I have a thirst for knowledge
-
+Coding is my passion. I love coding. I always try to learn new things and enrich my skills . I have a thirst for knowledge. Life is a source of learning. So, I never stop learning.
+.
 Skills: HTML / CSS/ JS /  REACT /Next JS/ Express JS/ Node JS
 
 - 🔭 I’m currently working on Freelancing Marketplace 
